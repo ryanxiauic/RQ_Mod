@@ -35,7 +35,8 @@ This file aims to record daily contribute to the rice quant mod development.
 
 ------
  
+**July 17**
 
+**Accomplishment**
 
-
-
+- Begin to design a project for students
